@@ -1,4 +1,4 @@
-package cavelikegen;
+package cavegenerator;
 
 import java.awt.Color;
 import java.awt.Graphics;
